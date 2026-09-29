@@ -2,6 +2,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AboutSection from './components/AboutSection'
 import SkillsSection from './components/SkillsSection'
+import ProjectsSection from './components/ProjectsSection'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <main>
         <AboutSection />
         <SkillsSection />
+        <ProjectsSection />
       </main>
      
     </div>
