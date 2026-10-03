@@ -10,15 +10,15 @@ const SkillsSection = () => {
           <h3 className="text-sm font-medium text-stone-500">Languages</h3>
           <div className="mt-3 flex flex-wrap gap-2">
             <SkillTag name="Java" />
-            <SkillTag name="JavaScript" />
-            <SkillTag name="C++" />
-            <SkillTag name="SQL" />
+            <SkillTag name="HTML" />
+            <SkillTag name="CSS" />
+            <SkillTag name="Kotlin" />
           </div>
         </div>
         <div>
           <h3 className="text-sm font-medium text-stone-500">Frameworks</h3>
           <div className="mt-3 flex flex-wrap gap-2">
-            <SkillTag name="React" />
+            <SkillTag name="" />
             <SkillTag name="Tailwind CSS" />
             <SkillTag name="Android SDK" />
           </div>
