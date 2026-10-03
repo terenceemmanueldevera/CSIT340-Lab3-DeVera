@@ -18,7 +18,7 @@ const SkillsSection = () => {
         <div>
           <h3 className="text-sm font-medium text-stone-500">Frameworks</h3>
           <div className="mt-3 flex flex-wrap gap-2">
-            <SkillTag name="" />
+            <SkillTag name="React" />
             <SkillTag name="Tailwind CSS" />
             <SkillTag name="Android SDK" />
           </div>
